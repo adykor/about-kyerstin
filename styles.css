@@ -3,5 +3,12 @@ h1 {
 }
 
 img {
-    border: 10px solid pink;
+    border: 20px solid pink;
+}
+
+body {
+    background-image: url("https://images.squarespace-cdn.com/content/v1/5ae8d46e70e802dfb2720c31/1541375778732-RRZXTDG6Y1JJ14FHR7CG/ke17ZwdGBToddI8pDm48kOAawJLQiWz4qKIVbQ8pUY1Zw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PInWqeLHlwJuiy5bsuO1VQYeqI4gwz6LLJ5fl7u-9p3Ck/aa+logo.png");
+    background-color: aquamarine;
+    color: blueviolet;
+
 }
