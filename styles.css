@@ -7,8 +7,11 @@ img {
 }
 
 body {
-    background-image: url("https://images.squarespace-cdn.com/content/v1/5ae8d46e70e802dfb2720c31/1541375778732-RRZXTDG6Y1JJ14FHR7CG/ke17ZwdGBToddI8pDm48kOAawJLQiWz4qKIVbQ8pUY1Zw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PInWqeLHlwJuiy5bsuO1VQYeqI4gwz6LLJ5fl7u-9p3Ck/aa+logo.png");
+    background-image: url("badass women.png");
     background-color: aquamarine;
+    background-size: 700px;
     color: blueviolet;
-
+    font-size: 30px;
+    -webkit-text-stroke: medium;
+    -webkit-text-stroke-color: darkmagenta;
 }
