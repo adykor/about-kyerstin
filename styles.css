@@ -1,5 +1,5 @@
 h1 {
-    color: yellowgreen;
+    color: lightpink;
 }
 
 img {
@@ -8,10 +8,10 @@ img {
 
 body {
     background-image: url("badass women.png");
-    background-color: aquamarine;
+    background-color: palevioletred;
     background-size: 700px;
     color: blueviolet;
     font-size: 30px;
     -webkit-text-stroke: medium;
-    -webkit-text-stroke-color: darkmagenta;
+    -webkit-text-stroke-color: lightpink;
 }
